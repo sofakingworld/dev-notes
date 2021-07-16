@@ -109,7 +109,7 @@
 
 ![](/images/neo4j_and_graphs:social_network.png)
 
-Даже** 3D-объект** можно представить в виде графа:
+Даже **3D-объект** можно представить в виде графа:
 
 ![](/images/neo4j_and_graphs:cube.png)
 
