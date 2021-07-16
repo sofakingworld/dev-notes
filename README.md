@@ -5,8 +5,8 @@
 
 ## Общие
 
-* [ТОDO как причина технического долга](/posts/todo_problem.md)
-* [Битовые карты ](/posts/bitmaps.md)
+* [ТОDO как одна из причин технического долга](/posts/todo_problem.md)
+* [Битовые карты на практике](/posts/bitmaps.md)
 
 ## Базы данных
 * [PostgresSQL пример построения отчета в маленьком магазине](/posts/sql_lesson.md)
