@@ -13,3 +13,7 @@
 * [PostgresSQL пример построения отчета в маленьком магазине](/posts/sql_lesson.md)
 * [Графы, немного теории и знакомство с графовой СУБД Neo4j](/posts/neo4j_and_graphs.md)
 
+## Elixir
+
+* [Elixir и паттернматчинг](/posts/elixir_patternmatching.md)
+
