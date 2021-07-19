@@ -16,4 +16,5 @@
 ## Elixir
 
 * [Elixir и паттернматчинг](/posts/elixir_patternmatching.md)
+* [GenServer и его тестирование](/posts/elixir_patternmatching.md)
 
