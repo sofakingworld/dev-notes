@@ -26,6 +26,7 @@
 ## Elixir
 
 * [Elixir и паттернматчинг](/posts/elixir_patternmatching.md)
+* [Пишем конфиг в Elixir приложениях](/posts/elixir_configuration.md)
 * [spawn процессов (Антипаттерн)](/posts/elixir_spawn_trouble.md)
 * [GenServer и его тестирование](/posts/elixir_genserver.md)
 * [Макросы и метапрограммирование (ч.1)](/posts/elixir_macroses_p1.md)
